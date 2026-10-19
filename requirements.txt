@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+openpyxl
+python-docx
+lxml
+seaborn
+statsmodels
+pypdf
+pdfplumber
+pillow
